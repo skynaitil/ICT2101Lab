@@ -4,5 +4,7 @@ public class Calculator {
     for (String summand: expression.split("\\+"))
       sum += Integer.valueOf(summand);
     return sum;
+	
+	int haha=0;
   }
 }
